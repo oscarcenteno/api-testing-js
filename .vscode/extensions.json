@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "amin.omodoro",
+    "atishay-jain.all-autocomplete",
+    "formulahendry.code-runner",
+    "xabikos.javascriptsnippets",
+    "vscode-icons-team.vscode-icons",
+    "dracula-theme.theme-dracula",
+    "esbenp.prettier-vscode",
+    "hbenl.vscode-test-explorer",
+    "hbenl.vscode-mocha-test-adapter",
+    "humao.rest-client",
+    "dbaeumer.vscode-eslint",
+    "techer.open-in-browser",
+    "eamodio.gitlens",
+    "ms-vscode.test-adapter-converter"
+  ]
+}
