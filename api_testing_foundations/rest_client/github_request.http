@@ -1,0 +1,11 @@
+### GET User
+https://api.github.com/users/octocat
+
+### Delete - Must have admin rights to Repository.
+DELETE https://api.github.com/repos/oscarcenteno/test2
+Authorization: Bearer TOKEN
+
+###
+
+GET https://api.github.com/repos/oscarcenteno/test2
+Authorization: Bearer TOKEN

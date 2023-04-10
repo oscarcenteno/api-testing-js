@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "f5941732-e4d7-4068-bb12-2b74134eabc8",
+		"name": "gihub",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1747084"
+	},
+	"item": [
+		{
+			"name": "https://api.github.com/users/octocat",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"username\": \"123\"\r\n}"
+				},
+				"url": {
+					"raw": "https://api.github.com/users/octocat",
+					"protocol": "https",
+					"host": [
+						"api",
+						"github",
+						"com"
+					],
+					"path": [
+						"users",
+						"octocat"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

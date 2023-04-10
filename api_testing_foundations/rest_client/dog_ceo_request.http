@@ -1,0 +1,18 @@
+### https://dog.ceo/dog-api/
+
+https://dog.ceo/api/breeds/list/all
+
+### DISPLAY SINGLE RANDOM IMAGE FROM ALL DOGS COLLECTION
+https://dog.ceo/api/breeds/image/random
+
+### DISPLAY MULTIPLE RANDOM IMAGES FROM ALL DOGS COLLECTION
+https://dog.ceo/api/breeds/image/random/3
+
+### BY BREED
+https://dog.ceo/api/breed/hound/images
+
+### LIST ALL SUB-BREEDS
+https://dog.ceo/api/breed/hound/list
+
+###
+https://dog.ceo/api/breed/affenpinscher/images/random

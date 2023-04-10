@@ -1,0 +1,4 @@
+GET https://reqres.in/api/users
+
+### 204 No Content
+OPTIONS https://reqres.in/api/users
